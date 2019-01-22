@@ -1,0 +1,6 @@
+首頁(登入前) = Index.aspx
+登入畫面 = Sign_in.aspx
+註冊畫面 = Sin_up.aspx
+首頁(登入後) = Homepage.aspx
+會員資料 = MemberArea.aspx
+會員資料修改 = MemberAreaUpdate.aspx

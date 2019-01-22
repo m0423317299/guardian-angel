@@ -1,0 +1,840 @@
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\GuardianAngel.dll.config
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\GuardianAngel.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\GuardianAngel.pdb
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\csc.exe
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\csc.exe.config
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\csc.rsp
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\csi.exe
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\csi.exe.config
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\csi.rsp
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.AppContext.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Console.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\vbc.exe
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\vbc.exe.config
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\vbc.rsp
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GuardianAngel\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+E:\GuardianAngel\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+E:\GuardianAngel\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+E:\GuardianAngel\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.dll
+E:\GuardianAngel\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.pdb
+F:\GuardianAngel\GuardianAngel\bin\GuardianAngel.dll.config
+F:\GuardianAngel\GuardianAngel\bin\GuardianAngel.dll
+F:\GuardianAngel\GuardianAngel\bin\GuardianAngel.pdb
+F:\GuardianAngel\GuardianAngel\bin\roslyn\csc.exe
+F:\GuardianAngel\GuardianAngel\bin\roslyn\csc.exe.config
+F:\GuardianAngel\GuardianAngel\bin\roslyn\csc.rsp
+F:\GuardianAngel\GuardianAngel\bin\roslyn\csi.exe
+F:\GuardianAngel\GuardianAngel\bin\roslyn\csi.exe.config
+F:\GuardianAngel\GuardianAngel\bin\roslyn\csi.rsp
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+F:\GuardianAngel\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.AppContext.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Console.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\GuardianAngel\GuardianAngel\bin\roslyn\vbc.exe
+F:\GuardianAngel\GuardianAngel\bin\roslyn\vbc.exe.config
+F:\GuardianAngel\GuardianAngel\bin\roslyn\vbc.rsp
+F:\GuardianAngel\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+F:\GuardianAngel\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+F:\GuardianAngel\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GuardianAngel\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+F:\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+F:\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+F:\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.dll
+F:\GuardianAngel\GuardianAngel\obj\Debug\GuardianAngel.pdb
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.dll.config
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.pdb
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.exe
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.exe.config
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.rsp
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.exe
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.exe.config
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.rsp
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.AppContext.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Console.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.exe
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.exe.config
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.rsp
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.dll
+C:\Users\R7 NEW\Desktop\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.pdb
+D:\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.dll.config
+D:\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.pdb
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.exe
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.exe.config
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.rsp
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.exe
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.exe.config
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.rsp
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.AppContext.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Console.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.exe
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.exe.config
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.rsp
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+D:\GuardianAngel_0103\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+D:\GuardianAngel_0103\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GuardianAngel_0103\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+D:\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+D:\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+D:\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.dll
+D:\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.pdb
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.dll.config
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.pdb
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.exe
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.exe.config
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.rsp
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.exe
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.exe.config
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.rsp
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.AppContext.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Console.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.exe
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.exe.config
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.rsp
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.dll
+\\cr1-teacher\C#語言作業\陳儀葶\第三組\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.pdb
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.dll.config
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\GuardianAngel.pdb
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.exe
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.exe.config
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\csc.rsp
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.exe
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.exe.config
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\csi.rsp
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.AppContext.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Console.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.exe
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.exe.config
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\vbc.rsp
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.dll
+C:\Users\iii\Desktop\新增資料夾 (2)\GuardianAngel_0103\GuardianAngel\obj\Debug\GuardianAngel.pdb
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\GuardianAngel.dll.config
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\GuardianAngel.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\GuardianAngel.pdb
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\csc.exe
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\csc.exe.config
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\csc.rsp
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\csi.exe
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\csi.exe.config
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\csi.rsp
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.AppContext.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Console.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\vbc.exe
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\vbc.exe.config
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\vbc.rsp
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\obj\Debug\GuardianAngel.dll
+C:\Users\iii\Desktop\GuardianAngel_0103完整版\GuardianAngel\obj\Debug\GuardianAngel.pdb
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\GuardianAngel.dll.config
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\GuardianAngel.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\GuardianAngel.pdb
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\csc.exe
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\csc.exe.config
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\csc.rsp
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\csi.exe
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\csi.exe.config
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\csi.rsp
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.AppContext.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Console.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\vbc.exe
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\vbc.exe.config
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\vbc.rsp
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\obj\Debug\GuardianAngel.dll
+C:\Users\iii\Desktop\新增資料夾 (3)\GuardianAngel_0108含網頁\GuardianAngel\obj\Debug\GuardianAngel.pdb
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\GuardianAngel.dll.config
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\GuardianAngel.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\GuardianAngel.pdb
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csc.exe
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csc.exe.config
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csc.rsp
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csi.exe
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csi.exe.config
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csi.rsp
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.AppContext.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Console.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\vbc.exe
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\vbc.exe.config
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\vbc.rsp
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.dll
+F:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.pdb
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\GuardianAngel.dll.config
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\GuardianAngel.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\GuardianAngel.pdb
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csc.exe
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csc.exe.config
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csc.rsp
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csi.exe
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csi.exe.config
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\csi.rsp
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.AppContext.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Console.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\vbc.exe
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\vbc.exe.config
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\vbc.rsp
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.dll
+D:\GuardianAngel_0109含網頁新版\GuardianAngel\obj\Debug\GuardianAngel.pdb
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\GuardianAngel.dll.config
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\GuardianAngel.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\GuardianAngel.pdb
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\csc.exe
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\csc.exe.config
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\csc.rsp
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\csi.exe
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\csi.exe.config
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\csi.rsp
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.AppContext.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Console.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\vbc.exe
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\vbc.exe.config
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\vbc.rsp
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GuardianAngel_0114(R7)\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+D:\GuardianAngel_0114(R7)\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+D:\GuardianAngel_0114(R7)\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+D:\GuardianAngel_0114(R7)\GuardianAngel\obj\Debug\GuardianAngel.dll
+D:\GuardianAngel_0114(R7)\GuardianAngel\obj\Debug\GuardianAngel.pdb
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\GuardianAngel.dll.config
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\GuardianAngel.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\GuardianAngel.pdb
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csc.exe
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csc.exe.config
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csc.rsp
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csi.exe
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csi.exe.config
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csi.rsp
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.AppContext.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Console.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\vbc.exe
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\vbc.exe.config
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\vbc.rsp
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.dll
+E:\陳儀葶_資策會\0115網頁整合\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.pdb
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\GuardianAngel.dll.config
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\GuardianAngel.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\GuardianAngel.pdb
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csc.exe
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csi.exe
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.dll
+C:\Users\user\Desktop\GuardianAngel_0115(R7)\GuardianAngel\obj\Debug\GuardianAngel.pdb
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\GuardianAngel.dll.config
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\GuardianAngel.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\GuardianAngel.pdb
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\csc.exe
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\csc.exe.config
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\csc.rsp
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\csi.exe
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\csi.exe.config
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\csi.rsp
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.AppContext.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Console.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\vbc.exe
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\vbc.exe.config
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\vbc.rsp
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0116\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+D:\0116\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+D:\0116\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+D:\0116\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.dll
+D:\0116\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.pdb
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\GuardianAngel.dll.config
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\GuardianAngel.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\GuardianAngel.pdb
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\csc.exe
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\csc.exe.config
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\csc.rsp
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\csi.exe
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\csi.exe.config
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\csi.rsp
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.AppContext.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Console.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.Compression.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Claims.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.ValueTuple.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\vbc.exe
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\vbc.exe.config
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\vbc.rsp
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\VBCSCompiler.exe
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.csproj.CopyComplete
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.dll
+C:\Users\iii\Desktop\GuardianAngel_0117\GuardianAngel\obj\Debug\GuardianAngel.pdb
